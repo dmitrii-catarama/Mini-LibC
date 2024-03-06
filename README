@@ -1,5 +1,7 @@
-    Proiect de facultate elaborat la obiectul Sisteme de Operare
+    Proiect de facultate elaborat la obiectul Sisteme de Operare.
 
     Proiectul furnizează implementări pentru funcții de manipulare cu 
 siruri de caractere (string-uri), operarea memoriei, ca de exemplu: strcpy, 
 strcat, strcmp, malloc, calloc, realloc, free, etc.
+    Scopul proiectului a fost familiarizarea cu apelurile de sistem, intelegerea
+structurii bibliotecei libC.
