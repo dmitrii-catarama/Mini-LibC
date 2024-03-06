@@ -1,0 +1,5 @@
+    Proiect de facultate elaborat la obiectul Sisteme de Operare
+
+    Proiectul furnizează implementări pentru funcții de manipulare cu 
+siruri de caractere (string-uri), operarea memoriei, ca de exemplu: strcpy, 
+strcat, strcmp, malloc, calloc, realloc, free, etc.
